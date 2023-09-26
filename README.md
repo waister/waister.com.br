@@ -1,4 +1,4 @@
-### Olá, waister Nunes aqui! 👋
+### Olá, Waister Nunes aqui! 👋
 
 Esse site parece um site de DEV backend mas na verdade eu trabalho como Desenvolvedor Android na KaBuM!, embora eu seja desenvolvedor fullstack também;
 
